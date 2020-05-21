@@ -27,5 +27,5 @@ fun main() {
     members[2] = "Jumardi"
     members[3] = "Mansur"
     members[4] = "Muna"
-    println(members[0])
+    println(members[1])
 }
