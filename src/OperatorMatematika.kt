@@ -1,4 +1,5 @@
 fun main() {
+    //untuk mendapatkan angka dibelkang koma makan harus menggunakan tipe data double atau juga bisa ditambai koma 0 dibelkanag angkanya langsung
     val result = 10.0 / 3.0
     println(result)
 
