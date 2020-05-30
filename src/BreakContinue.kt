@@ -1,6 +1,6 @@
 fun main() {
     //break digunakan untuk menghentikan seluruh perulangan
-    //continue digunakana untuk menghentikan perulangan pada saat kondisi terpenuhi dan kembali meneruskan perulangannya
+    //continue digunakan untuk menghentikan perulangan pada saat kondisi terpenuhi dan kembali meneruskan perulangannya
     var i = 0
     while (true) {
         println("Hello ke $i")
